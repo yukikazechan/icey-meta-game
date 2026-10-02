@@ -1,0 +1,16 @@
+PASS intro / reset
+PASS movement / facing / double jump / landing
+PASS dash / roll / invulnerability / cooldown
+PASS three light combos / hitstop / charge restoration
+PASS heavy launcher / charged smash / air slash
+PASS electric resource gate / area attack / boss victory
+PASS left / real cliff falling three times / achievement / room / return
+PASS idle story / one-time story dedupe
+PASS spider warning / detonation / damage
+PASS drone telegraph / laser
+PASS boss telegraph / slam / phase two / narrative
+PASS death checkpoint / regeneration / bounds / combo expiry
+PASS rebel ending branch / persistent exploration
+PASS ten-minute randomized simulation stays finite
+
+14 scenario tests passed. All authored narrative branches exercised.
