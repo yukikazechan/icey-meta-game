@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "browser": "Chromium / Playwright",
+  "checks": [
+    "desktop title / local assets",
+    "real keyboard / double jump / dash / heavy hold / finisher / Web Audio",
+    "pause / manual / resume",
+    "secret achievement / room interaction",
+    "ending / continue exploration",
+    "restart / sound toggle",
+    "portrait + landscape mobile / touch attacks + jumps / no overflow"
+  ],
+  "errors": []
+}
